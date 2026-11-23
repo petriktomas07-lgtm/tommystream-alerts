@@ -1,0 +1,15 @@
+{
+  "id": "com.tommystream.alerts",
+  "version": "1.0.0",
+  "name": "TommyStream Alerts",
+  "description": "Maintenance and system announcements",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "announcements",
+      "name": "📢 TOMMYSTREAM ALERTS"
+    }
+  ]
+}
