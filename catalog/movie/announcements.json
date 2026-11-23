@@ -1,0 +1,11 @@
+{
+  "metas": [
+    {
+      "id": "alert_01",
+      "type": "movie",
+      "name": "⚠️ DAILY MAINTENANCE (5:00 AM - 6:00 AM ABT)",
+      "poster": "https://githubusercontent.com",
+      "description": "Routine system optimization on TommyStream. Estimated downtime: 60 minutes."
+    }
+  ]
+}
