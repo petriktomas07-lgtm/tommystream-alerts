@@ -4,7 +4,7 @@
     "type": "movie",
     "name": "DAILY MAINTENANCE (5:00 AM - 6:00 AM ABT)",
     "poster": "https://githubusercontent.com",
-    "background": "https://githubusercontent.com",
+    "background": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/postersmall.jpg",
     "releaseInfo": "EVERY DAY • 60 MIN DOWNTIME",
     "genres": ["System Maintenance", "TommyStream"],
     "description": "Routine system optimization on TommyStream. Estimated downtime: 60 minutes."
