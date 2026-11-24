@@ -3,23 +3,23 @@
     {
       "id": "alert_01",
       "type": "movie",
-      "name": "DAILY MAINTENANCE (5:00 AM - 6:00 AM ABT)",
+      "name": "Live TV",
       "poster": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/1795481409839.jpg",
-      "description": "Routine system optimization on TommyStream. Estimated downtime: 60 minutes."
+      "description": "Jump into the TommyStream app, navigate to Discover ➡️ TV Channels, and browse through Live TV and your favorite categories to start watching immediately!"
     },
     {
       "id": "alert_02",
       "type": "movie",
-      "name": "ANNOUNCEMENT 2",
+      "name": "Tell your friedns and family",
       "poster": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/1795480929517.jpg",
       "description": "Announcement 2 details."
     },
     {
       "id": "alert_03",
       "type": "movie",
-      "name": "ANNOUNCEMENT 3",
+      "name": "DAILY MAINTENANCE (5:00 AM - 6:00 AM ABT)",
       "poster": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/postersmall.jpg",
-      "description": "Announcement 3 details."
+      "description": "Routine system optimization on TommyStream. Estimated downtime: 60 minutes."
     }
   ]
 }
