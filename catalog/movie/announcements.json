@@ -5,6 +5,9 @@
       "type": "movie",
       "name": "Live TV",
       "poster": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/1795481409839.jpg",
+      "background": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/1795481409839.jpg",
+      "releaseInfo": "NEW FEATURE • 10,000+ CHANNELS",
+      "genres": ["Live TV", "Sports", "News", "Entertainment"],
       "description": "Jump into the TommyStream app, navigate to Discover ➡️ TV Channels, and browse through Live TV and your favorite categories to start watching immediately!"
     },
     {
@@ -12,6 +15,9 @@
       "type": "movie",
       "name": "Tell your friends and family",
       "poster": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/1795480929517.jpg",
+      "background": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/1795480929517.jpg",
+      "releaseInfo": "REFERRAL SPECIAL",
+      "genres": ["Multi-Room Access", "Referral Perks"],
       "description": "Good things are meant to be shared! Whether it's the thrill of live sports 🏈🏒, blockbuster movie nights 🍿🎬, or binge-watching favorite TV shows 📺, everything is better when you’re watching together!"
     },
     {
@@ -19,6 +25,9 @@
       "type": "movie",
       "name": "DAILY MAINTENANCE (5:00 AM - 6:00 AM ABT)",
       "poster": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/postersmall.jpg",
+      "background": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/postersmall.jpg",
+      "releaseInfo": "EVERY DAY • 60 MIN DOWNTIME",
+      "genres": ["System Maintenance", "TommyStream"],
       "description": "Routine system optimization on TommyStream. Estimated downtime: 60 minutes."
     }
   ]
