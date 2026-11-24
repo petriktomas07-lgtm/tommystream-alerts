@@ -4,9 +4,21 @@
     "type": "movie",
     "name": "Title fight: Tyson Fury vs. Anthony Joshua",
     "poster": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/1795483813617.jpg",
-    "background": "https://githubusercontent.com",
-    "releaseInfo": "Title fight: Tyson Fury vs. Anthony Joshua",
-    "genres": ["Multi-Room Access", "Referral Perks"],
-    "description": "​🥊🏴󠁧󠁢󠁷󠁬󠁳󠁿 THE FIGHT BRITISH BOXING HAS WAITED A DECADE FOR: FURY VS. JOSHUA IS LIVE ON DECEMBER 11th! 🔥👑"
+    "background": "https://raw.githubusercontent.com/petriktomas07-lgtm/tommystream-alerts/main/1795483813617.jpg",
+    "releaseInfo": "FRIDAY, DEC 11 • 6:00 PM MST (8:00 PM EST)",
+    "genres": ["Boxing", "WBA Heavyweight Title", "Live PPV"],
+    "description": "🥊🏴󠁧󠁢󠁷󠁬󠁳󠁿 THE FIGHT BRITISH BOXING HAS WAITED A DECADE FOR: FURY VS. JOSHUA IS LIVE ON DECEMBER 11th FROM CARDIFF, WALES! 🔥👑\n\n📺 HOW TO WATCH: Search \"Tyson Fury\" or \"Fury vs Joshua\", or open Discover ➡️ Sports / PPV Events at 6:00 PM MST!",
+    "links": [
+      {
+        "name": "🔍 Search: Tyson Fury",
+        "category": "cast",
+        "url": "stremio:///search?search=Tyson%20Fury"
+      },
+      {
+        "name": "🥊 Search: Fury vs Joshua",
+        "category": "cast",
+        "url": "stremio:///search?search=Fury%20vs%20Joshua"
+      }
+    ]
   }
 }
